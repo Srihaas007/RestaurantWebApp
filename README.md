@@ -33,11 +33,4 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 
-# Co Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
+
